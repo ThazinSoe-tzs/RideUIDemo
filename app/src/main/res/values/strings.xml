@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TaxiDemoApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="date_time"><![CDATA[Date & time]]></string>
+    <string name="rental_fee">Rental fee</string>
+</resources>
